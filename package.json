@@ -1,0 +1,25 @@
+{
+  "name": "array-obj",
+  "version": "1.0.0",
+  "description": "Convert arraying to object with option useful for generating cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m98jk/array-obj.git"
+  },
+  "keywords": [
+    "array",
+    "object",
+    "helpers",
+    "maping"
+  ],
+  "author": "m98jk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m98jk/array-obj/issues"
+  },
+  "homepage": "https://github.com/m98jk/array-obj#readme"
+}
