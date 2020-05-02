@@ -4,7 +4,7 @@ Convert arraying to object with option useful for generating cards
 
 # Instalation
 
-`npm i arr2obj`
+`npm i array-obj`
 
 With import
 
