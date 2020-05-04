@@ -17,7 +17,7 @@ With require
 ### USAGE ...
 
 ```
-import {arr2obj} from 'arr2obj'
+import {arr2obj} from 'array-obj'
 
 
   arr2obj({
